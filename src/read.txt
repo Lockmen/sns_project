@@ -1,0 +1,1 @@
+google-services를 app 폴더 안에 넣어줘야 제대로 실행이 됩니다.
